@@ -4,10 +4,9 @@
 ## WITH VUE.JS AND BOOTSTRAP
 
 - [x] VUE.JS
-- [x] Second version
 - [x] Loacal storage
 - [x] Bootstrap
-- [x] https://kostassliazas.github.io/todo-app/
+- [x] First version https://kostassliazas.github.io/todo-app/
 
 
 
