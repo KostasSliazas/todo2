@@ -6,6 +6,7 @@
 - [x] VUE.JS
 - [x] Loacal storage
 - [x] Bootstrap
+- [x] This is build version (minimized, optimized)
 - [x] This version https://kostassliazas.github.io/todo2.github.io/
 - [x] First version https://kostassliazas.github.io/todo-app/
 
