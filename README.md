@@ -12,4 +12,5 @@
 - [x] This is build version (minimized, optimized)
 - [x] This version https://kostassliazas.github.io/todo2.github.io/
 - [x] First version https://kostassliazas.github.io/todo-app/
+- [x] I don't know if everything works normal 
 
