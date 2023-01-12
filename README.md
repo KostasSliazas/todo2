@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/31342007/193416811-58c5a2af-9e7b-48a0-98fa-599f1cc12146.png" alt="my banner">
+<img src="https://user-images.githubusercontent.com/31342007/211972792-4e1dde07-5279-4e1d-88ba-b3840e33f003.png" alt="my banner">
 # Todo app
 
 ## VUE.JS AND BOOTSTRAP
