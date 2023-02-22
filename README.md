@@ -12,5 +12,6 @@
 - [x] This is build version (minimized, optimized)
 - [x] This version https://kostassliazas.github.io/todo2.github.io/
 - [x] First version https://kostassliazas.github.io/todo-app/
+- [x] Bonus version :D with QR code scan https://kostassliazas.github.io/todo-app-qr.io/
 - [x] I don't know if everything works normal 
 
