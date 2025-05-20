@@ -1,5 +1,4 @@
 # Todo app
-
 [![License](https://img.shields.io/github/license/KostasSliazas/todo2)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/KostasSliazas/todo2?style=social)](https://github.com/KostasSliazas/todo2/stargazers)
 [![Forks](https://img.shields.io/github/forks/KostasSliazas/todo2?style=social)](https://github.com/KostasSliazas/todo2/forks)
